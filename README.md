@@ -8,9 +8,13 @@ This project is developed for academic and learning purposes.
 
 # Objectives
 Analyze sentiment of tweets using NLP techniques
+
 Classify tweets into Positive, Negative, and Neutral categories
+
 Provide an interactive and user-friendly dashboard
+
 Visualize sentiment distribution using charts
+
 Enable analysis of individual tweets and datasets
 
 # Technologies Used
