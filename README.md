@@ -14,23 +14,26 @@ Visualize sentiment distribution using charts
 Enable analysis of individual tweets and datasets
 
 # Technologies Used
-Python
-Streamlit
-Pandas
-TextBlob
-Matplotlib
-Regular Expressions (re)
+Python, Streamlit, Pandas, TextBlob, Matplotlib, Regular Expressions (re)
 
 # Dataset
 Source: Kaggle Twitter Sentiment Dataset (Sentiment140)
+
 Format: CSV
+
 Size: 1.6 Million Tweets (sampled for performance)
+
 Type: Offline Dataset
  
 # Features
 ✅ Single Tweet Sentiment Analysis
+
 ✅ Offline Dataset Analysis
+
 ✅ Interactive Dashboard
+
 ✅ Pie Chart Visualization
+
 ✅ CSV Export of Results
+
 ✅ Easy-to-Use Interface
