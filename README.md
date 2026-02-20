@@ -22,10 +22,10 @@ Matplotlib
 Regular Expressions (re)
 
 # Dataset
- Source: Kaggle Twitter Sentiment Dataset (Sentiment140)
- Format: CSV
- Size: 1.6 Million Tweets (sampled for performance)
- Type: Offline Dataset
+Source: Kaggle Twitter Sentiment Dataset (Sentiment140)
+Format: CSV
+Size: 1.6 Million Tweets (sampled for performance)
+Type: Offline Dataset
  
 # Features
 ✅ Single Tweet Sentiment Analysis
