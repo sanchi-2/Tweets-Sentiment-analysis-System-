@@ -12,6 +12,7 @@ Classify tweets into Positive, Negative, and Neutral categories
 Provide an interactive and user-friendly dashboard
 Visualize sentiment distribution using charts
 Enable analysis of individual tweets and datasets
+
 # Technologies Used
 Python
 Streamlit
@@ -19,11 +20,13 @@ Pandas
 TextBlob
 Matplotlib
 Regular Expressions (re)
+
 # Dataset
 > Source: Kaggle Twitter Sentiment Dataset (Sentiment140)
 > Format: CSV
 > Size: 1.6 Million Tweets (sampled for performance)
 > Type: Offline Dataset
+> 
 # Features
 ✅ Single Tweet Sentiment Analysis
 ✅ Offline Dataset Analysis
